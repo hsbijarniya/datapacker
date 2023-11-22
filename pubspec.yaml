@@ -1,0 +1,20 @@
+name: datapacker
+description: Serialize data into binary format.
+version: 0.0.1
+homepage: https://ensorta.com
+repository: https://github.com/hsbijarniya/datapacker
+
+environment:
+  sdk: ">=2.17.3 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
